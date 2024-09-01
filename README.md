@@ -1,36 +1,34 @@
-# 👋 안녕하세요! 저는 임수빈입니다.
+<div align="center">
 
-저는 포론트엔드개발자로 활동하고 있는 예비 개발자입니다. 다양한 기술과 도구를 사용하여 창의적인 프로젝트를 만드는 것을 좋아합니다. 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=trondi" width="300px" />
 
-- 🌱 현재 배우고 있는 것: React, typescript 
-- 💬 문의 사항: 
-- 📫 연락처: 003subin@naver.com
+## Su Bin
 
-## 🔧 기술 스택
+### 💡 Tech Stacks 💡
 
-저는 다음과 같은 기술들을 사용합니다:
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> -->
 
-- **프론트엔드 개발**: HTML, CSS, JavaScript, React
-- **데이터베이스**: MySQL
-- **버전 관리**: Git, GitHub
-- **기타 도구**: Docker
+  <br>
 
-  ## 🌟 프로젝트 하이라이트
+</div>
 
-### [Perfit X FootPrint ] 
+<div align="center">
 
-- 설명: 이 프로젝트는 Perfit의 B2C 도입을 위한 자체 웹애플리케이션을 개발하는 프로젝트입니다. 
-- 사용한 기술: React , Typescript
-- 주요 기능: 
-  - 기능 1
-  - 기능 2
-  - 기능 3
+  <img align="right" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suziebelle003&layout=compact" width="250" />
 
-    
-## 📫 연락처
+### 👉 Link 👈
 
-- **이메일**: 003subin@naver.com
-- **GitHub**: [GitHub 프로필 링크](https://github.com/suziebelle003)
+<a href="https://github.com/suziebelle003" target="_blank"><img src="https://img.shields.io/badge/TIL-ffff00?style=flat-square&logo=Github&logoColor=white"  /></a>
+<a href="https://github.com/suziebelle003" target="_blank"><img src="https://img.shields.io/badge/Github-ffff?style=flat-square&logo=Github&logoColor=white"  /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Blog-ff5722?style=flat-square&logo=Blogger&logoColor=white"  /></a>
+<a href="mailto:imsubin003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"  alt="Gmail" /></a>
+
+</div>
+<!-- <img alt="github-readme-streak-stats" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=trondi&theme=tokyonight" width="300px" /> -->
 
 
 
